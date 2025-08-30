@@ -1,1 +1,1 @@
-# AI Document Helper
+# AI Documentation Helper
